@@ -18,7 +18,7 @@ const SLIDES = [
   {
     badge: 'PERFORMANCE',
     title: 'Indoor Cushions',
-    subtitle: 'Transform your living space with the exquisite elegance of the Indoor Cushion Cover from Cushion Guru, where comfort meets style seamlessly.',
+    subtitle: 'Transform your living space1 with the exquisite elegance of the Indoor Cushion Cover from Cushion Guru, where comfort meets style seamlessly.',
     cta: 'Shop Now',
     href: '/shop/indoor',
     mediaKey: 'home_slider_indoor',
